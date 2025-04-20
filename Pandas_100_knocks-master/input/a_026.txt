@@ -1,3 +1,0 @@
-[answer26]
-
-df[df['sex'] == 'female']

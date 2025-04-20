@@ -1,3 +1,0 @@
-[question22]
-
-# locを使ってdfのnameからcabinまでの列をすべて表示

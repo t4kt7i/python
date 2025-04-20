@@ -1,3 +1,0 @@
-[question69]
-
-# df2のEnglishで得点の最大値

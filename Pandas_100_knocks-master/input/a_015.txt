@@ -1,3 +1,0 @@
-[answer15]
-
-df[['name','sex']]

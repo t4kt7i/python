@@ -1,3 +1,0 @@
-[answer22]
-
-df.loc[:,'name':'cabin']

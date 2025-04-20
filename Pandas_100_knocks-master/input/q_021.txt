@@ -1,3 +1,0 @@
-[question21]
-
-# locを使ってdfのnameとticketの列をすべて表示

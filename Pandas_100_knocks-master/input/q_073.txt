@@ -1,3 +1,0 @@
-[question73]
-
-# dfの各列間の(Pearson)相関係数を確認

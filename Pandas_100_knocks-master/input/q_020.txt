@@ -1,3 +1,0 @@
-[question20]
-
-# locを使ってdfのfare列の10のラベルまで表示

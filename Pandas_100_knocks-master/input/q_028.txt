@@ -1,3 +1,0 @@
-[question28]
-
-# queryを用いてdfのsex列がfemaleでかつageが40以上のデータのみ抽出

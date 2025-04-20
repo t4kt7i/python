@@ -1,3 +1,0 @@
-[question66]
-
-# dfのage列の平均値を確認
