@@ -1,3 +1,0 @@
-[question22]
-
-# ilocを使ってdfのage列を5行目まで表示

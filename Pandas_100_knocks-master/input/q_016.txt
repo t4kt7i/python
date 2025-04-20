@@ -1,3 +1,0 @@
-[question16]
-
-# dfのindex(行)の4行目までを表示

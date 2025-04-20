@@ -1,3 +1,0 @@
-[answer27]
-
-df[(df['sex'] == 'female' ) & (df['age'] >= 40)]

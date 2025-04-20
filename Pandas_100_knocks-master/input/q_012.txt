@@ -1,3 +1,0 @@
-[question12]
-
-# dfの列名一覧をlist形式で表示

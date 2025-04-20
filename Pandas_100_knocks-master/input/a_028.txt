@@ -1,3 +1,0 @@
-[answer28]
-
-df.query('sex == "female" & age >= 40 ')

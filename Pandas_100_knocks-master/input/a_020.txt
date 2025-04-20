@@ -1,3 +1,0 @@
-[answer20]
-
-df.loc[:10,'fare']

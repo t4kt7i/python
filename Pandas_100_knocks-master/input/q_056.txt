@@ -1,4 +1,0 @@
-[question56]
-
-# dfのname列1行目の「Allen, Miss. Elisabeth Walton」の
-# 「Elisabeth」を消去(import reをインポート)

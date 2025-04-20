@@ -1,3 +1,0 @@
-[question26]
-
-# dfのsex列がfemaleのデータのみ抽出

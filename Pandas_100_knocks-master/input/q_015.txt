@@ -1,3 +1,0 @@
-[question15]
-
-# dfのnameとsexの列のみ表示

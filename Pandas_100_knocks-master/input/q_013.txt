@@ -1,3 +1,0 @@
-[question13]
-
-# dfのインデックス一覧をndaaray形式で表示

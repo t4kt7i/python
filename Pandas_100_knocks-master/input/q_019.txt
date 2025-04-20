@@ -1,3 +1,0 @@
-[question19]
-
-# locを使ってdfのfare列をすべて表示
